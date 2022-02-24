@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Observator's catechism</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53186</idno>
+            <idno type="STC">Wing O123KB</idno>
+            <idno type="STC">ESTC R219351</idno>
+            <idno type="EEBO-CITATION">99830829</idno>
+            <idno type="PROQUEST">99830829</idno>
+            <idno type="VID">35283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2093:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Observator's catechism</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Observator = Sir Roger L'Estrange.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the Trinity College Library, University of Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704 --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:35283:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="1" facs="tcp:35283:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>THE Obſervator's Catechiſm</head>
+            <p>Queſtion, <hi>WHat's your Name?</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> Obſervator.</p>
+            <p>Queſt. <hi>Who gave you that Name?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> My Country-Man.</p>
+            <p>Queſt. <hi>Who's your Country-Man?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> An honeſt poor Fellow that I bubble— Lie with his Wife, eat up his Victuals, and drink up his drink; cram his head full of Stratagem and Politicks, and drain his Barn to ſup<g ref="char:EOLhyphen"/>ply my Exchequer: Inſtead of Tilling and Mannuring his Land to propogate the Increaſe of the Earth, I ſend him to prog for Intelligence, and propogate Scandal; which, together with his being naturally of a buſie turbulent Spirit, may in time qualifie him for my Buſineſs<g ref="char:punc">▪</g> if the Aſpect of his Affairs, the mean while does not make him turn Wiſe, before I turn Honeſt; of which there's moſt probability.</p>
+            <p>Queſt. <hi>How d'ye Title your ſelf to the World?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> A Gentleman.</p>
+            <p>Queſt. <hi>And how do's the World Title you?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> A Blockhead.</p>
+            <p>Queſt. <hi>Are you in any Condition in the World?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, in a Shitten one, if the Government lays hold of me again: <hi>Nec non,</hi> and five falſe <hi>Latin</hi> Councellors won't bring me off, with the Additional help of a truſty Whig Friend
+<pb n="2" facs="tcp:35283:2"/>
+               <!-- PDF PAGE 26 -->in <hi>H—t</hi>'s Office— But a pox of the Jeſt, it has baulk'd the Sale of my Paper ſince, tho' I put the laudable Name of <hi>John Tutchin</hi> at the End on't— Witneſs it's being thrown out of Fifty Coffee-Houſes in Town.</p>
+            <p>Queſt. <hi>What did it's Merit conſiſt in before?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Impudence.</p>
+            <p>Queſt. <hi>And what has Eclyps'd it ſince?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Dullneſs— a Conſequence as Plain and Natural as the four firſt Rules of Arithmetick, that when one leaves me, t'other ſeizes me— for when I am abridg'd in my Latitude of Scandal, which is my principal Talent, I grow dull as naturally, as I grow drunk with my Country Man's <hi>October:</hi> Nor has that Power to inſpire me with any Eloquence, unleſs I may join a little Impudence to help it out. Railing is my Genius, and Scurrility and Reproaches, the natural Product of my Brain:— I turn'd Poet too, but having nothing but Scandal to qualifie my <hi>Muſe, Apollo</hi> had like to've broke my head with my own Standiſh.</p>
+            <p>Queſt. <hi>Who employ'd you to write againſt the Play-houſe?</hi>
+            </p>
+            <p>
+               <hi>Anſ</hi> My ſelf.</p>
+            <p>Queſt. <hi>And who paid you for it?</hi>
+            </p>
+            <p>
+               <hi>Anſ. George P—e,</hi> when he ſcour'd me over <hi>Lambeth-Marſh,</hi> with an Execution at my Heels; leaving the deareſt Friends I had upon Earth in a praemunire— Meaning my worldly Move<g ref="char:EOLhyphen"/>ables; and rubbing to the <hi>Mint,</hi> in as pittiful a Condition, as when I left my Lodging in <hi>Southwark,</hi> and repair'd to honeſt <hi>Will. Fuller</hi> near the <hi>Fleet,</hi> with all my Furnitude and Apparel in a ſheet of Brown-Paper.</p>
+            <p>Queſt. <hi>Why did not you take Satisfaction for this affront?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Even <hi>Sawney</hi>'s Reaſon— becauſe I durſt not, having but too lately ſuffer'd under the violent Hands of a <hi>Sea Here,</hi> whom I had drench'd in an Ocean of Scandal.</p>
+            <p>Queſt. <hi>Have you any Courage?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, but there's no Body believes it but my Country-man. Who believes any thing, I ſay— and yet I have ſaid as
+<pb n="3" facs="tcp:35283:2"/>
+               <!-- PDF PAGE 26 -->much in praiſe of my own Valour, as ever was ſaid of that clam<g ref="char:EOLhyphen"/>bring <hi>Hero</hi> Prince <hi>Eugene</hi>'s— Nay, I had the Courage t'other day in my <hi>Obſervator,</hi> to give a certain Perſon of Note the Lie, for ſay<g ref="char:EOLhyphen"/>ing, <hi>I was an approv'd Coward;</hi> where I prov'd the Gentleman's Words true, tho' it had not been done before— For if I'd had the Courage of an angry Cat, I had told him ſo to his Face, and not in Print— But let others draw their Swo ds— I'll ſtab with my Pen, and when Scandal and Invectives fail me, I'll appeal to my <hi>Oaken Towel,</hi> a Weapon, adapted more ſuitably to my un<g ref="char:EOLhyphen"/>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ildy Bulk— which I preſume thoſe, who gave me the Title of <hi>Labourer</hi> had been made acquainted with, it being a Title as proper to my Perſon, as my celebrated Impudence is to my po<g ref="char:EOLhyphen"/>pular Capacity.</p>
+            <p>Queſt. <hi>What Religion are you of?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> My Country-Man's.</p>
+            <p>Queſt. <hi>And what Religion's your Country-Man of?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> None at all— as how the Devil ſhould he, when he has been ſo long at my Devotion.</p>
+            <p>Queſt. <hi>What are your Principles?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Very neceſſary and ſuitable to the Station into which t'has pleas'd <hi>John How,</hi> and the Republican Whigs, to call me. The old Rebellious King-killing Principles of <hi>Forty-Eight;</hi> Se<g ref="char:EOLhyphen"/>dition and Levelling, under the ſpecious Name of Liberty and Property, and Power in the People: There's Principles that fire me with pious Rage! To be an Oſtentatious Rogue among the Party, and fatten upon popular Scandal; through which I reſolve to ſtand by the Party to the laſt drop of my Ink. I dare not ſay, my Blood, for fear <hi>Leſlic</hi> ſhould make Treaſon of it— In ſhort— My Principles are to rail immoderately at the High-Church Party, to traduce the Government when it is not mov'd by thoſe Precepts<g ref="char:punc">▪</g> I lay down, and to throw the ſame dirt at the Crown, I do at the Mitre, to ſpare none, tho' never ſo high in Station, and to ſtick at nothing within the Verge of my Ears, to explode Immorality, and be catch'd in a B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wdy-Houſe, to run in every Bodies debt, and pay no Body; to ruin my Coun<g ref="char:EOLhyphen"/>try-Man, and as many of Mankind beſides as will be led by the Noſe— and finally— to be a very Capricious poſitive Cox<g ref="char:EOLhyphen"/>comb—
+<pb n="4" facs="tcp:35283:3"/>
+               <!-- PDF PAGE 27 -->revengful without Courage, and conceited without Merit— and now, Sir, I have given you an exact, tho' brief Ac<g ref="char:EOLhyphen"/>count, of my Principles.</p>
+            <p>Queſt. <hi>Very well, Sir— but pray, how came you to rail at King</hi> William?</p>
+            <p>
+               <hi>Anſ.</hi> Firſt— Becauſe he bore that Regal Title; next, becauſe he let the Biſhops ſit in Council; and laſtly, becauſe I could not rail my ſelf into a better Office than a Tubber of pickled Beef upon <hi>Tower-Hill</hi>— Out of which, notwithſtanding, I was kick'd for a troubleſome vexatious Fellow.</p>
+            <p>Queſt. <hi>In what Poſt were you in</hi> Ireland?</p>
+            <p>
+               <hi>Anſ.</hi> A Captain, if you'll take my own word for't; but if you'l believe other People, I was but a Corporal, who adapt my Preferment more ſuitable to my deſert.</p>
+            <p>Queſt. <hi>What were you in the Weſt of</hi> England?</p>
+            <p>
+               <hi>Anſ.</hi> A buſie turbulent Fellow, as I've appear'd ever ſince; where. <hi>Jefferies</hi> not finding Law enough to hang me— reſolv'd upon Meaſures to make me hang my ſelf— which I had done, had not King <hi>James</hi> pardoned me, tho' I deſerv'd the Halter I petition'd for, and which Providence, by her inſcrutable De<g ref="char:EOLhyphen"/>crees, may have reſerv'd to a more convenient Seaſon.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35283:3"/>
+            <!-- PDF PAGE 27 -->
+         </div>
+      </body>
+   </text>
+</TEI>
